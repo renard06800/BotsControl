@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BotsControl</string>
+
+    <!-- titre des activités -->
+
+    <string name="title_activity_remote">Pilotage</string>
+    <string name="title_activity_setup">Configuration</string>
+
+
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <!-- actions -->
+    <string name="action_drive">Piloter</string>
+    <string name="action_setup">Configurer</string>
+    <string name="action_close">Quitter</string>
+
+    <!-- menus -->
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
